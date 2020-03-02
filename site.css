@@ -1,0 +1,50 @@
+
+.logo{
+    border: 24px solid #4CAF50;
+   width:128px;
+   height:128px;
+   margin-left: 123px;
+}
+
+.topnav{
+margin-left: 388px;
+    margin-top: -125px;
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #4CAF50;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 28px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+/*button CSS*/
+.button{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 97px;
+
+}
+.button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
